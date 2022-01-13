@@ -1,6 +1,3 @@
-[submodule "/home/bharathanr/dotfiles/vim/.vim/pack/batbrat/start/vim-sensible"]
-	path = /home/bharathanr/dotfiles/.vim/pack/batbrat/start/vim-sensible
-	url = https://tpope.io/vim/sensible.git
 [submodule ".tmux/plugins/tpm"]
 	path = tmux/.tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
