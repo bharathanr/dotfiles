@@ -1,0 +1,3 @@
+[submodule "/home/bharathanr/dotfiles/.vim/pack/batbrat/start/vim-sensible"]
+	path = /home/bharathanr/dotfiles/.vim/pack/batbrat/start/vim-sensible
+	url = https://tpope.io/vim/sensible.git
