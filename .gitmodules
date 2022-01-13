@@ -1,3 +1,6 @@
 [submodule ".tmux/plugins/tpm"]
 	path = tmux/.tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+[submodule "vim/.vim/pack/batbrat/start/vim-sensible"]
+	path = vim/.vim/pack/batbrat/start/vim-sensible
+	url = https://tpope.io/sensible.git
