@@ -4,3 +4,27 @@
 [submodule "vim/.vim/pack/batbrat/start/vim-sensible"]
 	path = vim/.vim/pack/batbrat/start/vim-sensible
 	url = https://tpope.io/sensible.git
+[submodule "vim/.vim/pack/batbrat/start/vim-colors-solarized"]
+	path = vim/.vim/pack/batbrat/start/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "vim/.vim/pack/batbrat/start/gruvbox"]
+	path = vim/.vim/pack/batbrat/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "vim/.vim/pack/batbrat/start/jellybeans"]
+	path = vim/.vim/pack/batbrat/start/jellybeans
+	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule "vim/.vim/pack/batbrat/start/badwolf"]
+	path = vim/.vim/pack/batbrat/start/badwolf
+	url = https://github.com/sjl/badwolf.git
+[submodule "vim/.vim/pack/batbrat/start/molokai"]
+	path = vim/.vim/pack/batbrat/start/molokai
+	url = https://github.com/tomasr/molokai.git
+[submodule "vim/.vim/pack/batbrat/start/dracula"]
+	path = vim/.vim/pack/batbrat/start/dracula
+	url = https://github.com/dracula/vim.git
+[submodule "vim/.vim/pack/batbrat/start/nord-vim"]
+	path = vim/.vim/pack/batbrat/start/nord-vim
+	url = https://github.com/arcticicestudio/nord-vim.git
+[submodule "vim/.vim/pack/batbrat/start/vim-neo-solarized"]
+	path = vim/.vim/pack/batbrat/start/vim-neo-solarized
+	url = https://github.com/overcache/NeoSolarized.git
