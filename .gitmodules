@@ -28,3 +28,6 @@
 [submodule "vim/.vim/pack/batbrat/start/vim-neo-solarized"]
 	path = vim/.vim/pack/batbrat/start/vim-neo-solarized
 	url = https://github.com/overcache/NeoSolarized.git
+[submodule "vim/.vim/pack/batbrat/start/vim-surround"]
+	path = vim/.vim/pack/batbrat/start/vim-surround
+	url = https://tpope.io/vim/surround.git
