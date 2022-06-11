@@ -21,6 +21,9 @@ set showcmd " Useful to see the leader being pressed
 " Map <leader> to space
 let mapleader = " "
 
+" Add fzf to the runtime path
+set rtp+=~/.fzf/
+
 " Set tabs for Makefiles
 autocmd FileType make set tabstop=8 shiftwidth=8 softtabstop=0 noexpandtab
 
