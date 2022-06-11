@@ -34,3 +34,6 @@
 [submodule "vim/.vim/pack/batbrat/start/vim-commentary"]
 	path = vim/.vim/pack/batbrat/start/vim-commentary
 	url = https://tpope.io/vim/commentary.git
+[submodule "vim/.vim/pack/batbrat/start/fzf"]
+	path = vim/.vim/pack/batbrat/start/fzf
+	url = https://github.com/junegunn/fzf.vim.git
