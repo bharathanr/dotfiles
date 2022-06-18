@@ -24,6 +24,10 @@ let mapleader = " "
 " Add fzf to the runtime path
 set rtp+=~/.fzf/
 
+" Set vims globbing for finding files
+set path+=**
+" set wildmenu " Already included by vim-sensible
+
 " Set tabs for Makefiles
 autocmd FileType make set tabstop=8 shiftwidth=8 softtabstop=0 noexpandtab
 
@@ -33,6 +37,9 @@ set shiftwidth=4     " 1 indent = 4 spaces
 set softtabstop=4    " Move 4 columns when pressing <Tab> in Instert mode 
 set expandtab          " Expand tabs to spaces
 " set smarttab is already done - vim-sensible
+
+" Set leader key mappings
+nnoremap <leader>f :Files <CR>
 
 let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
 let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
