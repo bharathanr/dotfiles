@@ -46,3 +46,6 @@
 [submodule "vim/.vim/pack/batbrat/start/vim-python-pep8-indent"]
 	path = vim/.vim/pack/batbrat/start/vim-python-pep8-indent
 	url = https://github.com/Vimjas/vim-python-pep8-indent.git
+[submodule "vim/.vim/pack/batbrat/start/vim-pythonsense"]
+	path = vim/.vim/pack/batbrat/start/vim-pythonsense
+	url = https://github.com/jeetsukumaran/vim-pythonsense.git

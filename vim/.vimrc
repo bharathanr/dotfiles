@@ -58,3 +58,7 @@ set t_Co=256
 if(has("termguicolors"))
     set termguicolors
 endif
+
+" Plugin configuration
+" vim-pythonsense
+let g:is_pythonsense_alternate_motion_keymaps = 1

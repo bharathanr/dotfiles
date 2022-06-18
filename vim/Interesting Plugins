@@ -1,0 +1,32 @@
+A list of plugins I may want to look at later
+
+Automatic  closing of pairs
+===========================
+- tpope/enwise
+- jiangmiao/auto-pairs
+
+Syntax highlighting
+===================
+Multi-language
+--------------
+ - vim-polyglot
+ - nvim-treesitter
+ - mattn/vim-treesitter
+
+Python
+------
+ - semishi (nvim only)
+ - python-mode (Has a lot of other stuff)
+
+Automatic spacing setup 
+-----------------------
+  - tpope/vim-sleuth
+
+LSP
+---
+ - LSP (vim9 by yegappan)
+ - vim-lsp
+ - coc.nvim
+ - vim-lsc
+ - ale
+
