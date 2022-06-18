@@ -61,3 +61,7 @@
 [submodule "vim/.vim/pack/batbrat/opt/vim-nerdtree-syntax-highlight"]
 	path = vim/.vim/pack/batbrat/opt/vim-nerdtree-syntax-highlight
 	url = https://github.com/tiagofumo/vim-nerdtree-syntax-highlight
+[submodule "vim/.vim/pack/coc/start/coc.nvim"]
+	path = vim/.vim/pack/coc/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+	branch = release
