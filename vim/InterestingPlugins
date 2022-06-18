@@ -2,8 +2,9 @@ A list of plugins I may want to look at later
 
 Automatic  closing of pairs
 ===========================
-- tpope/enwise
-- jiangmiao/auto-pairs
+  - tpope/enwise
+  - jiangmiao/auto-pairs
+  - delimitMate
 
 Syntax highlighting
 ===================
@@ -19,14 +20,30 @@ Python
  - python-mode (Has a lot of other stuff)
 
 Automatic spacing setup 
------------------------
+=======================
   - tpope/vim-sleuth
 
 LSP
----
+===
  - LSP (vim9 by yegappan)
  - vim-lsp
  - coc.nvim
  - vim-lsc
  - ale
 
+Project and File Management
+===========================
+tpope/projectionist
+
+Repeat Command
+==============
+tpope/repeat.vim - Allows repeating user defined actions.
+
+Git
+===
+vim gitgutter
+vimagit
+
+Python
+======
+indentpython.vim - Fixes autoindent issues

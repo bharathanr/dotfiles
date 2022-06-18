@@ -59,6 +59,9 @@ if(has("termguicolors"))
     set termguicolors
 endif
 
+" Vim autocompletion
+set omnifunc=syntaxcomplete#Complete
+
 " Plugin configuration
 " vim-pythonsense
 let g:is_pythonsense_alternate_motion_keymaps = 1

@@ -49,3 +49,15 @@
 [submodule "vim/.vim/pack/batbrat/start/vim-pythonsense"]
 	path = vim/.vim/pack/batbrat/start/vim-pythonsense
 	url = https://github.com/jeetsukumaran/vim-pythonsense.git
+[submodule "vim/.vim/pack/batbrat/opt/nerdtree.git"]
+	path = vim/.vim/pack/batbrat/opt/nerdtree.git
+	url = https://github.com/preservim/nerdtree.git
+[submodule "vim/.vim/pack/batbrat/opt/nerdtree-git-plugin.git"]
+	path = vim/.vim/pack/batbrat/opt/nerdtree-git-plugin.git
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule "vim/.vim/pack/batbrat/opt/vim-devicons"]
+	path = vim/.vim/pack/batbrat/opt/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons
+[submodule "vim/.vim/pack/batbrat/opt/vim-nerdtree-syntax-highlight"]
+	path = vim/.vim/pack/batbrat/opt/vim-nerdtree-syntax-highlight
+	url = https://github.com/tiagofumo/vim-nerdtree-syntax-highlight
