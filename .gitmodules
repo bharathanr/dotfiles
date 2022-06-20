@@ -47,7 +47,7 @@
 	path = vim/.vim/pack/batbrat/start/vim-python-pep8-indent
 	url = https://github.com/Vimjas/vim-python-pep8-indent.git
 [submodule "vim/.vim/pack/batbrat/start/vim-pythonsense"]
-	path = vim/.vim/pack/batbrat/start/vim-pythonsense
+	path = vim/.vim/pack/batbrat/opt/vim-pythonsense
 	url = https://github.com/jeetsukumaran/vim-pythonsense.git
 [submodule "vim/.vim/pack/batbrat/opt/nerdtree.git"]
 	path = vim/.vim/pack/batbrat/opt/nerdtree.git
@@ -65,3 +65,9 @@
 	path = vim/.vim/pack/coc/start/coc.nvim
 	url = https://github.com/neoclide/coc.nvim.git
 	branch = release
+[submodule "vim/.vim/pack/batbrat/opt/vim-airline"]
+	path = vim/.vim/pack/batbrat/opt/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "vim/.vim/pack/batbrat/opt/vim-airline-themes"]
+	path = vim/.vim/pack/batbrat/opt/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
