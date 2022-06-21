@@ -74,6 +74,9 @@ packadd! vim-airline
 let g:airline#extensions#tabline#enabled = 1
 
 " Plugin configuration
+" quick-scope
+let g:qs_highlight_on_keys = ['f', 'F', 't', 'T']
+
 " vim-pythonsense
 " let g:is_pythonsense_alternate_motion_keymaps = 1
 
