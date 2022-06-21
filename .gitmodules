@@ -71,3 +71,6 @@
 [submodule "vim/.vim/pack/batbrat/opt/vim-airline-themes"]
 	path = vim/.vim/pack/batbrat/opt/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "vim/.vim/pack/batbrat/start/quick-scope"]
+	path = vim/.vim/pack/batbrat/start/quick-scope
+	url = https://github.com/unblevable/quick-scope
